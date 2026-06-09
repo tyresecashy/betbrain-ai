@@ -1,0 +1,1449 @@
+[
+  {
+    "match": "Arsenal vs Chelsea",
+    "competition": "Premier League",
+    "date": "2026-05-17",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.215,
+      "marketChaos": 0.785,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Manchester City vs West Ham United",
+    "competition": "Premier League",
+    "date": "2026-05-17",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.215,
+      "marketChaos": 0.785,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Chelsea vs Bournemouth",
+    "competition": "Premier League",
+    "date": "2026-05-19",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.215,
+      "marketChaos": 0.785,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Liverpool vs Wolves",
+    "competition": "Premier League",
+    "date": "2026-05-19",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.215,
+      "marketChaos": 0.785,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Sheffield United vs Tottenham Hotspur",
+    "competition": "Premier League",
+    "date": "2026-05-19",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.215,
+      "marketChaos": 0.785,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Brighton vs Chelsea",
+    "competition": "Premier League",
+    "date": "2026-05-15",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.378,
+      "marketChaos": 0.622,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Manchester United vs Newcastle United",
+    "competition": "Premier League",
+    "date": "2026-05-15",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "BOOST",
+      "confidence": 0.611,
+      "marketChaos": 0.389,
+      "tags": [
+        "BALANCED_MATCH"
+      ]
+    }
+  },
+  {
+    "match": "Tottenham Hotspur vs Manchester City",
+    "competition": "Premier League",
+    "date": "2026-05-14",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.215,
+      "marketChaos": 0.785,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Aston Villa vs Liverpool",
+    "competition": "Premier League",
+    "date": "2026-05-13",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": -0.035,
+      "marketChaos": 1.035,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Real Madrid vs Real Betis",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0,
+      "marketChaos": 1,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Sevilla vs Barcelona",
+    "competition": "La Liga",
+    "date": "2026-05-25",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.33,
+      "marketChaos": 0.67,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Real Sociedad vs Atletico Madrid",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.519,
+      "marketChaos": 0.481,
+      "tags": [
+        "DRAW_ZONE",
+        "BALANCED_MATCH"
+      ]
+    }
+  },
+  {
+    "match": "Almeria vs Cadiz",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "BOOST",
+      "confidence": 0.559,
+      "marketChaos": 0.441,
+      "tags": [
+        "DRAW_ZONE",
+        "BALANCED_MATCH"
+      ]
+    }
+  },
+  {
+    "match": "Celta Vigo vs Valencia",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.463,
+      "marketChaos": 0.537,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "Getafe vs Mallorca",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.455,
+      "marketChaos": 0.545,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "Girona vs Granada",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.25,
+      "marketChaos": 0.75,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Osasuna vs Villarreal",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.509,
+      "marketChaos": 0.491,
+      "tags": [
+        "BALANCED_MATCH"
+      ]
+    }
+  },
+  {
+    "match": "Rayo Vallecano vs Athletic Bilbao",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.391,
+      "marketChaos": 0.609,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "AC Milan vs Salernitana",
+    "competition": "Serie A",
+    "date": "2026-05-25",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.025,
+      "marketChaos": 0.975,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Verona vs Inter Milan",
+    "competition": "Serie A",
+    "date": "2026-05-26",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.025,
+      "marketChaos": 0.975,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Atalanta vs Torino",
+    "competition": "Serie A",
+    "date": "2026-05-24",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.275,
+      "marketChaos": 0.725,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Bologna vs Juventus",
+    "competition": "Serie A",
+    "date": "2026-05-20",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "BOOST",
+      "confidence": 0.551,
+      "marketChaos": 0.449,
+      "tags": [
+        "DRAW_ZONE",
+        "BALANCED_MATCH"
+      ]
+    }
+  },
+  {
+    "match": "Cagliari vs Fiorentina",
+    "competition": "Serie A",
+    "date": "2026-05-23",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.431,
+      "marketChaos": 0.569,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "Empoli vs AS Roma",
+    "competition": "Serie A",
+    "date": "2026-05-26",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.31,
+      "marketChaos": 0.69,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Frosinone vs Udinese",
+    "competition": "Serie A",
+    "date": "2026-05-26",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.523,
+      "marketChaos": 0.477,
+      "tags": [
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "Genoa vs Bologna",
+    "competition": "Serie A",
+    "date": "2026-05-24",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.508,
+      "marketChaos": 0.491,
+      "tags": [
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "Juventus vs Monza",
+    "competition": "Serie A",
+    "date": "2026-05-25",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.275,
+      "marketChaos": 0.725,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Lazio vs Sassuolo",
+    "competition": "Serie A",
+    "date": "2026-05-26",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.025,
+      "marketChaos": 0.975,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Napoli vs Lecce",
+    "competition": "Serie A",
+    "date": "2026-05-25",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.025,
+      "marketChaos": 0.975,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Bayer Leverkusen vs FC Augsburg",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.235,
+      "marketChaos": 0.765,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Bayern Munich vs VfL Wolfsburg",
+    "competition": "Bundesliga",
+    "date": "2026-05-12",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.235,
+      "marketChaos": 0.765,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Borussia Dortmund vs SV Darmstadt 98",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.235,
+      "marketChaos": 0.765,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Eintracht Frankfurt vs RB Leipzig",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.412,
+      "marketChaos": 0.588,
+      "tags": [
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Heidenheim vs FC Koln",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.546,
+      "marketChaos": 0.454,
+      "tags": []
+    }
+  },
+  {
+    "match": "TSG Hoffenheim vs Bayern Munich",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.276,
+      "marketChaos": 0.724,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "VfB Stuttgart vs Borussia Monchengladbach",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.235,
+      "marketChaos": 0.765,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Union Berlin vs SC Freiburg",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "BOOST",
+      "confidence": 0.589,
+      "marketChaos": 0.411,
+      "tags": [
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "VfL Wolfsburg vs Mainz 05",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.419,
+      "marketChaos": 0.581,
+      "tags": [
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Werder Bremen vs VfL Bochum",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.44,
+      "marketChaos": 0.56,
+      "tags": [
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Le Havre vs Marseille",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.199,
+      "marketChaos": 0.801,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Lens vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": -0.065,
+      "marketChaos": 1.065,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Lille vs Nice",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": -0.028,
+      "marketChaos": 1.028,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Lorient vs Clermont",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.214,
+      "marketChaos": 0.786,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Lyon vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Monaco vs Nantes",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Metz vs PSG",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Reims vs Rennes",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "BOOST",
+      "confidence": 0.581,
+      "marketChaos": 0.419,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "BALANCED_MATCH"
+      ]
+    }
+  },
+  {
+    "match": "Toulouse vs Brest",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.384,
+      "marketChaos": 0.616,
+      "tags": [
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Paris Saint-Germain vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Monaco vs Nantes",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Lille vs Nice",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": -0.044,
+      "marketChaos": 1.044,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Lens vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": -0.065,
+      "marketChaos": 1.065,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Le Havre vs Marseille",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.241,
+      "marketChaos": 0.759,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Reims vs Rennes",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.475,
+      "marketChaos": 0.525,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE",
+        "BALANCED_MATCH"
+      ]
+    }
+  },
+  {
+    "match": "Toulouse vs Brest",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.384,
+      "marketChaos": 0.616,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "Lorient vs Clermont",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.384,
+      "marketChaos": 0.616,
+      "tags": [
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Metz vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.44,
+      "marketChaos": 0.56,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE",
+        "BALANCED_MATCH"
+      ]
+    }
+  },
+  {
+    "match": "Nice vs Paris Saint-Germain",
+    "competition": "Ligue 1",
+    "date": "2026-05-17",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.305,
+      "marketChaos": 0.695,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Reims vs Marseille",
+    "competition": "Ligue 1",
+    "date": "2026-05-17",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.539,
+      "marketChaos": 0.461,
+      "tags": [
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Brest vs Reims",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": -0.065,
+      "marketChaos": 1.065,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Clermont vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Montpellier vs Monaco",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.235,
+      "marketChaos": 0.765,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Nantes vs Lille",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.206,
+      "marketChaos": 0.794,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Paris Saint-Germain vs Toulouse",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": -0.19,
+      "marketChaos": 1.19,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Marseille vs Lorient",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Strasbourg vs Metz",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.418,
+      "marketChaos": 0.582,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "Rennes vs Lens",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.49,
+      "marketChaos": 0.51,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE",
+        "BALANCED_MATCH"
+      ]
+    }
+  },
+  {
+    "match": "Lille vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-05-06",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.239,
+      "marketChaos": 0.761,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Brest vs Nantes",
+    "competition": "Ligue 1",
+    "date": "2026-05-04",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": -0.065,
+      "marketChaos": 1.065,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Lens vs Lorient",
+    "competition": "Ligue 1",
+    "date": "2026-05-03",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Le Havre vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-05-04",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.525,
+      "marketChaos": 0.475,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "Monaco vs Clermont",
+    "competition": "Ligue 1",
+    "date": "2026-05-04",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Metz vs Rennes",
+    "competition": "Ligue 1",
+    "date": "2026-05-04",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.362,
+      "marketChaos": 0.638,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "Toulouse vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-05-03",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.369,
+      "marketChaos": 0.631,
+      "tags": [
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Nice vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-04-28",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Lyon vs Monaco",
+    "competition": "Ligue 1",
+    "date": "2026-04-28",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "BOOST",
+      "confidence": 0.603,
+      "marketChaos": 0.397,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "BALANCED_MATCH"
+      ]
+    }
+  },
+  {
+    "match": "Marseille vs Lens",
+    "competition": "Ligue 1",
+    "date": "2026-04-28",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.44,
+      "marketChaos": 0.56,
+      "tags": [
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Paris Saint-Germain vs Le Havre",
+    "competition": "Ligue 1",
+    "date": "2026-04-27",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": -0.065,
+      "marketChaos": 1.065,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Metz vs Lille",
+    "competition": "Ligue 1",
+    "date": "2026-04-28",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Lorient vs Paris Saint-Germain",
+    "competition": "Ligue 1",
+    "date": "2026-04-24",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Monaco vs Lille",
+    "competition": "Ligue 1",
+    "date": "2026-04-24",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.504,
+      "marketChaos": 0.496,
+      "tags": [
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Marseille vs Nice",
+    "competition": "Ligue 1",
+    "date": "2026-04-24",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.326,
+      "marketChaos": 0.674,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "Brest vs Monaco",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.504,
+      "marketChaos": 0.496,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE",
+        "BALANCED_MATCH"
+      ]
+    }
+  },
+  {
+    "match": "Toulouse vs Marseille",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.454,
+      "marketChaos": 0.546,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE",
+        "BALANCED_MATCH"
+      ]
+    }
+  },
+  {
+    "match": "Paris Saint-Germain vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Lens vs Clermont",
+    "competition": "Ligue 1",
+    "date": "2026-04-20",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Lille vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Reims vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.27,
+      "marketChaos": 0.73,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Le Havre vs Metz",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.334,
+      "marketChaos": 0.666,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "Nantes vs Rennes",
+    "competition": "Ligue 1",
+    "date": "2026-04-20",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.369,
+      "marketChaos": 0.631,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "Nice vs Lorient",
+    "competition": "Ligue 1",
+    "date": "2026-04-19",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Lyon vs Brest",
+    "competition": "Ligue 1",
+    "date": "2026-04-14",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.49,
+      "marketChaos": 0.51,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE"
+      ]
+    }
+  },
+  {
+    "match": "Clermont vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-04-14",
+    "prediction": "Draw",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.418,
+      "marketChaos": 0.582,
+      "tags": [
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Rennes vs Toulouse",
+    "competition": "Ligue 1",
+    "date": "2026-04-13",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.185,
+      "marketChaos": 0.815,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Strasbourg vs Reims",
+    "competition": "Ligue 1",
+    "date": "2026-04-13",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.546,
+      "marketChaos": 0.454,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE",
+        "BALANCED_MATCH"
+      ]
+    }
+  },
+  {
+    "match": "Metz vs Lens",
+    "competition": "Ligue 1",
+    "date": "2026-04-12",
+    "prediction": "Home Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.224,
+      "marketChaos": 0.776,
+      "tags": [
+        "HIGH_UPSET_RISK",
+        "HIGH_VOLATILITY"
+      ]
+    }
+  },
+  {
+    "match": "Nantes vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-04-07",
+    "prediction": "Away Win",
+    "ai": {
+      "tier": "KING",
+      "confidence": 0.355,
+      "marketChaos": 0.645,
+      "tags": [
+        "HIGH_VOLATILITY",
+        "DRAW_ZONE"
+      ]
+    }
+  }
+]

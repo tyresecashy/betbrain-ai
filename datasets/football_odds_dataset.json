@@ -1,0 +1,875 @@
+[
+  {
+    "match": "Arsenal vs Chelsea",
+    "competition": "Premier League",
+    "date": "2026-05-17",
+    "odds_home": 1.62,
+    "odds_draw": 4.10,
+    "odds_away": 4.80,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Manchester City vs West Ham United",
+    "competition": "Premier League",
+    "date": "2026-05-17",
+    "odds_home": 1.20,
+    "odds_draw": 7.00,
+    "odds_away": 12.50,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Chelsea vs Bournemouth",
+    "competition": "Premier League",
+    "date": "2026-05-19",
+    "odds_home": 1.45,
+    "odds_draw": 4.75,
+    "odds_away": 6.00,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Liverpool vs Wolves",
+    "competition": "Premier League",
+    "date": "2026-05-19",
+    "odds_home": 1.28,
+    "odds_draw": 5.80,
+    "odds_away": 9.00,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Sheffield United vs Tottenham Hotspur",
+    "competition": "Premier League",
+    "date": "2026-05-19",
+    "odds_home": 6.50,
+    "odds_draw": 5.00,
+    "odds_away": 1.40,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Brighton vs Chelsea",
+    "competition": "Premier League",
+    "date": "2026-05-15",
+    "odds_home": 3.20,
+    "odds_draw": 3.75,
+    "odds_away": 2.10,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Manchester United vs Newcastle United",
+    "competition": "Premier League",
+    "date": "2026-05-15",
+    "odds_home": 2.40,
+    "odds_draw": 3.80,
+    "odds_away": 2.60,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Tottenham Hotspur vs Manchester City",
+    "competition": "Premier League",
+    "date": "2026-05-14",
+    "odds_home": 6.00,
+    "odds_draw": 4.75,
+    "odds_away": 1.44,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Aston Villa vs Liverpool",
+    "competition": "Premier League",
+    "date": "2026-05-13",
+    "odds_home": 4.00,
+    "odds_draw": 4.20,
+    "odds_away": 1.72,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Real Madrid vs Real Betis",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 1.33,
+    "odds_draw": 5.25,
+    "odds_away": 8.00,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Sevilla vs Barcelona",
+    "competition": "La Liga",
+    "date": "2026-05-25",
+    "odds_home": 3.60,
+    "odds_draw": 3.80,
+    "odds_away": 1.91,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Real Sociedad vs Atletico Madrid",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 2.45,
+    "odds_draw": 3.40,
+    "odds_away": 2.80,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Almeria vs Cadiz",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 2.70,
+    "odds_draw": 3.25,
+    "odds_away": 2.63,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Celta Vigo vs Valencia",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 2.10,
+    "odds_draw": 3.30,
+    "odds_away": 3.60,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Getafe vs Mallorca",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 2.50,
+    "odds_draw": 2.90,
+    "odds_away": 3.30,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Girona vs Granada",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 1.25,
+    "odds_draw": 6.50,
+    "odds_away": 9.50,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Osasuna vs Villarreal",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 2.80,
+    "odds_draw": 3.60,
+    "odds_away": 2.38,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Rayo Vallecano vs Athletic Bilbao",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 3.40,
+    "odds_draw": 3.30,
+    "odds_away": 2.15,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "AC Milan vs Salernitana",
+    "competition": "Serie A",
+    "date": "2026-05-25",
+    "odds_home": 1.18,
+    "odds_draw": 7.50,
+    "odds_away": 13.00,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Verona vs Inter Milan",
+    "competition": "Serie A",
+    "date": "2026-05-26",
+    "odds_home": 7.00,
+    "odds_draw": 4.50,
+    "odds_away": 1.45,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Atalanta vs Torino",
+    "competition": "Serie A",
+    "date": "2026-05-24",
+    "odds_home": 1.57,
+    "odds_draw": 4.00,
+    "odds_away": 5.75,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Bologna vs Juventus",
+    "competition": "Serie A",
+    "date": "2026-05-20",
+    "odds_home": 2.90,
+    "odds_draw": 3.10,
+    "odds_away": 2.60,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Cagliari vs Fiorentina",
+    "competition": "Serie A",
+    "date": "2026-05-23",
+    "odds_home": 3.30,
+    "odds_draw": 3.40,
+    "odds_away": 2.15,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Empoli vs AS Roma",
+    "competition": "Serie A",
+    "date": "2026-05-26",
+    "odds_home": 4.50,
+    "odds_draw": 3.75,
+    "odds_away": 1.75,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Frosinone vs Udinese",
+    "competition": "Serie A",
+    "date": "2026-05-26",
+    "odds_home": 2.40,
+    "odds_draw": 3.30,
+    "odds_away": 2.90,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Genoa vs Bologna",
+    "competition": "Serie A",
+    "date": "2026-05-24",
+    "odds_home": 3.50,
+    "odds_draw": 3.25,
+    "odds_away": 2.15,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Juventus vs Monza",
+    "competition": "Serie A",
+    "date": "2026-05-25",
+    "odds_home": 1.36,
+    "odds_draw": 4.75,
+    "odds_away": 8.50,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Lazio vs Sassuolo",
+    "competition": "Serie A",
+    "date": "2026-05-26",
+    "odds_home": 1.40,
+    "odds_draw": 5.00,
+    "odds_away": 7.00,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Napoli vs Lecce",
+    "competition": "Serie A",
+    "date": "2026-05-25",
+    "odds_home": 1.44,
+    "odds_draw": 4.50,
+    "odds_away": 7.00,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Bayer Leverkusen vs FC Augsburg",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 1.28,
+    "odds_draw": 6.00,
+    "odds_away": 9.00,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Bayern Munich vs VfL Wolfsburg",
+    "competition": "Bundesliga",
+    "date": "2026-05-12",
+    "odds_home": 1.33,
+    "odds_draw": 5.75,
+    "odds_away": 7.50,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Borussia Dortmund vs SV Darmstadt 98",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 1.14,
+    "odds_draw": 8.50,
+    "odds_away": 15.00,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Eintracht Frankfurt vs RB Leipzig",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 3.10,
+    "odds_draw": 3.90,
+    "odds_away": 2.10,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Heidenheim vs FC Koln",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 2.20,
+    "odds_draw": 3.60,
+    "odds_away": 3.00,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "TSG Hoffenheim vs Bayern Munich",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 4.33,
+    "odds_draw": 4.50,
+    "odds_away": 1.62,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "VfB Stuttgart vs Borussia Monchengladbach",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 1.25,
+    "odds_draw": 6.50,
+    "odds_away": 9.50,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Union Berlin vs SC Freiburg",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 2.40,
+    "odds_draw": 3.40,
+    "odds_away": 2.90,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "VfL Wolfsburg vs Mainz 05",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 2.15,
+    "odds_draw": 3.60,
+    "odds_away": 3.10,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Werder Bremen vs VfL Bochum",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 1.95,
+    "odds_draw": 3.90,
+    "odds_away": 3.50,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Le Havre vs Marseille",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 4.00,
+    "odds_draw": 3.75,
+    "odds_away": 1.85,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Lens vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 1.57,
+    "odds_draw": 4.33,
+    "odds_away": 5.25,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Lille vs Nice",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 1.91,
+    "odds_draw": 3.60,
+    "odds_away": 3.90,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Lorient vs Clermont",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 1.70,
+    "odds_draw": 4.00,
+    "odds_away": 4.50,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Lyon vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 1.44,
+    "odds_draw": 4.75,
+    "odds_away": 6.50,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Monaco vs Nantes",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 1.36,
+    "odds_draw": 5.25,
+    "odds_away": 7.50,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Metz vs PSG",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 5.75,
+    "odds_draw": 4.75,
+    "odds_away": 1.45,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Reims vs Rennes",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 2.70,
+    "odds_draw": 3.50,
+    "odds_away": 2.50,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Toulouse vs Brest",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 3.10,
+    "odds_draw": 3.50,
+    "odds_away": 2.25,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Paris Saint-Germain vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 1.45,
+    "odds_draw": 4.75,
+    "odds_away": 6.00,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Monaco vs Nantes",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 1.55,
+    "odds_draw": 4.20,
+    "odds_away": 5.50,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Lille vs Nice",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 1.90,
+    "odds_draw": 3.50,
+    "odds_away": 4.00,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Lens vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 1.65,
+    "odds_draw": 4.00,
+    "odds_away": 4.75,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Le Havre vs Marseille",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 3.80,
+    "odds_draw": 3.60,
+    "odds_away": 1.95,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Reims vs Rennes",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 2.70,
+    "odds_draw": 3.40,
+    "odds_away": 2.50,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Toulouse vs Brest",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 3.10,
+    "odds_draw": 3.40,
+    "odds_away": 2.25,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Lorient vs Clermont",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 2.00,
+    "odds_draw": 3.50,
+    "odds_away": 3.60,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Metz vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 2.45,
+    "odds_draw": 3.30,
+    "odds_away": 2.90,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Nice vs Paris Saint-Germain",
+    "competition": "Ligue 1",
+    "date": "2026-05-17",
+    "odds_home": 3.40,
+    "odds_draw": 3.75,
+    "odds_away": 2.00,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Reims vs Marseille",
+    "competition": "Ligue 1",
+    "date": "2026-05-17",
+    "odds_home": 2.85,
+    "odds_draw": 3.50,
+    "odds_away": 2.35,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Brest vs Reims",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 1.70,
+    "odds_draw": 3.80,
+    "odds_away": 4.75,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Clermont vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 4.50,
+    "odds_draw": 4.10,
+    "odds_away": 1.68,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Montpellier vs Monaco",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 3.75,
+    "odds_draw": 3.90,
+    "odds_away": 1.85,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Nantes vs Lille",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 4.00,
+    "odds_draw": 3.50,
+    "odds_away": 1.90,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Paris Saint-Germain vs Toulouse",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 1.38,
+    "odds_draw": 5.25,
+    "odds_away": 7.00,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Marseille vs Lorient",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 1.42,
+    "odds_draw": 4.75,
+    "odds_away": 6.50,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Strasbourg vs Metz",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 2.10,
+    "odds_draw": 3.40,
+    "odds_away": 3.45,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Rennes vs Lens",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 2.55,
+    "odds_draw": 3.40,
+    "odds_away": 2.65,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Lille vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-05-06",
+    "odds_home": 1.88,
+    "odds_draw": 3.80,
+    "odds_away": 3.75,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Brest vs Nantes",
+    "competition": "Ligue 1",
+    "date": "2026-05-04",
+    "odds_home": 1.72,
+    "odds_draw": 3.65,
+    "odds_away": 5.00,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Lens vs Lorient",
+    "competition": "Ligue 1",
+    "date": "2026-05-03",
+    "odds_home": 1.42,
+    "odds_draw": 4.60,
+    "odds_away": 7.00,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Le Havre vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-05-04",
+    "odds_home": 2.40,
+    "odds_draw": 3.25,
+    "odds_away": 3.00,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Monaco vs Clermont",
+    "competition": "Ligue 1",
+    "date": "2026-05-04",
+    "odds_home": 1.33,
+    "odds_draw": 5.50,
+    "odds_away": 8.00,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Metz vs Rennes",
+    "competition": "Ligue 1",
+    "date": "2026-05-04",
+    "odds_home": 3.20,
+    "odds_draw": 3.40,
+    "odds_away": 2.20,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Toulouse vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-05-03",
+    "odds_home": 2.15,
+    "odds_draw": 3.60,
+    "odds_away": 3.10,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Nice vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-04-28",
+    "odds_home": 1.75,
+    "odds_draw": 3.60,
+    "odds_away": 4.80,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Lyon vs Monaco",
+    "competition": "Ligue 1",
+    "date": "2026-04-28",
+    "odds_home": 2.50,
+    "odds_draw": 3.75,
+    "odds_away": 2.55,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Marseille vs Lens",
+    "competition": "Ligue 1",
+    "date": "2026-04-28",
+    "odds_home": 2.10,
+    "odds_draw": 3.50,
+    "odds_away": 3.30,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Paris Saint-Germain vs Le Havre",
+    "competition": "Ligue 1",
+    "date": "2026-04-27",
+    "odds_home": 1.30,
+    "odds_draw": 5.75,
+    "odds_away": 9.00,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Metz vs Lille",
+    "competition": "Ligue 1",
+    "date": "2026-04-28",
+    "odds_home": 4.20,
+    "odds_draw": 3.60,
+    "odds_away": 1.85,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Lorient vs Paris Saint-Germain",
+    "competition": "Ligue 1",
+    "date": "2026-04-24",
+    "odds_home": 6.50,
+    "odds_draw": 4.75,
+    "odds_away": 1.44,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Monaco vs Lille",
+    "competition": "Ligue 1",
+    "date": "2026-04-24",
+    "odds_home": 2.25,
+    "odds_draw": 3.50,
+    "odds_away": 3.00,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Marseille vs Nice",
+    "competition": "Ligue 1",
+    "date": "2026-04-24",
+    "odds_home": 2.15,
+    "odds_draw": 3.30,
+    "odds_away": 3.40,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Brest vs Monaco",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "odds_home": 2.60,
+    "odds_draw": 3.40,
+    "odds_away": 2.60,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Toulouse vs Marseille",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "odds_home": 2.80,
+    "odds_draw": 3.40,
+    "odds_away": 2.45,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Paris Saint-Germain vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "odds_home": 1.48,
+    "odds_draw": 4.75,
+    "odds_away": 5.75,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Lens vs Clermont",
+    "competition": "Ligue 1",
+    "date": "2026-04-20",
+    "odds_home": 1.40,
+    "odds_draw": 4.75,
+    "odds_away": 7.50,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Lille vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "odds_home": 1.62,
+    "odds_draw": 3.90,
+    "odds_away": 5.50,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Reims vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "odds_home": 1.95,
+    "odds_draw": 3.65,
+    "odds_away": 3.60,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Le Havre vs Metz",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "odds_home": 2.20,
+    "odds_draw": 3.25,
+    "odds_away": 3.40,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Nantes vs Rennes",
+    "competition": "Ligue 1",
+    "date": "2026-04-20",
+    "odds_home": 3.20,
+    "odds_draw": 3.30,
+    "odds_away": 2.25,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Nice vs Lorient",
+    "competition": "Ligue 1",
+    "date": "2026-04-19",
+    "odds_home": 1.55,
+    "odds_draw": 4.00,
+    "odds_away": 6.00,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Lyon vs Brest",
+    "competition": "Ligue 1",
+    "date": "2026-04-14",
+    "odds_home": 2.25,
+    "odds_draw": 3.40,
+    "odds_away": 3.10,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Clermont vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-04-14",
+    "odds_home": 2.90,
+    "odds_draw": 3.50,
+    "odds_away": 2.30,
+    "actual_result": "Draw"
+  },
+  {
+    "match": "Rennes vs Toulouse",
+    "competition": "Ligue 1",
+    "date": "2026-04-13",
+    "odds_home": 1.85,
+    "odds_draw": 3.60,
+    "odds_away": 4.20,
+    "actual_result": "Away Win"
+  },
+  {
+    "match": "Strasbourg vs Reims",
+    "competition": "Ligue 1",
+    "date": "2026-04-13",
+    "odds_home": 2.45,
+    "odds_draw": 3.30,
+    "odds_away": 2.90,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Metz vs Lens",
+    "competition": "Ligue 1",
+    "date": "2026-04-12",
+    "odds_home": 4.50,
+    "odds_draw": 3.75,
+    "odds_away": 1.78,
+    "actual_result": "Home Win"
+  },
+  {
+    "match": "Nantes vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-04-07",
+    "odds_home": 3.25,
+    "odds_draw": 3.40,
+    "odds_away": 2.20,
+    "actual_result": "Away Win"
+  }
+]

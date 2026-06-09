@@ -1,0 +1,1651 @@
+[
+  {
+    "match": "Arsenal vs Chelsea",
+    "competition": "Premier League",
+    "date": "2026-05-17",
+    "odds_home": 1.62,
+    "odds_draw": 4.1,
+    "odds_away": 4.8,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.97,
+    "confidence": -0.086,
+    "classification": "KING"
+  },
+  {
+    "match": "Manchester City vs West Ham United",
+    "competition": "Premier League",
+    "date": "2026-05-17",
+    "odds_home": 1.2,
+    "odds_draw": 7,
+    "odds_away": 12.5,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.97,
+    "confidence": -0.291,
+    "classification": "KING"
+  },
+  {
+    "match": "Chelsea vs Bournemouth",
+    "competition": "Premier League",
+    "date": "2026-05-19",
+    "odds_home": 1.45,
+    "odds_draw": 4.75,
+    "odds_away": 6,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.97,
+    "confidence": -0.291,
+    "classification": "KING"
+  },
+  {
+    "match": "Liverpool vs Wolves",
+    "competition": "Premier League",
+    "date": "2026-05-19",
+    "odds_home": 1.28,
+    "odds_draw": 5.8,
+    "odds_away": 9,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.97,
+    "confidence": -0.291,
+    "classification": "KING"
+  },
+  {
+    "match": "Sheffield United vs Tottenham Hotspur",
+    "competition": "Premier League",
+    "date": "2026-05-19",
+    "odds_home": 6.5,
+    "odds_draw": 5,
+    "odds_away": 1.4,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.97,
+    "confidence": -0.291,
+    "classification": "KING"
+  },
+  {
+    "match": "Brighton vs Chelsea",
+    "competition": "Premier League",
+    "date": "2026-05-15",
+    "odds_home": 3.2,
+    "odds_draw": 3.75,
+    "odds_away": 2.1,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.617,
+    "volatility_score": 0.874,
+    "confidence": 0.846,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Manchester United vs Newcastle United",
+    "competition": "Premier League",
+    "date": "2026-05-15",
+    "odds_home": 2.4,
+    "odds_draw": 3.8,
+    "odds_away": 2.6,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.067,
+    "volatility_score": 0.737,
+    "confidence": 1.662,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Tottenham Hotspur vs Manchester City",
+    "competition": "Premier League",
+    "date": "2026-05-14",
+    "odds_home": 6,
+    "odds_draw": 4.75,
+    "odds_away": 1.44,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.97,
+    "confidence": -0.291,
+    "classification": "KING"
+  },
+  {
+    "match": "Aston Villa vs Liverpool",
+    "competition": "Premier League",
+    "date": "2026-05-13",
+    "odds_home": 4,
+    "odds_draw": 4.2,
+    "odds_away": 1.72,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 1,
+      "inferred": true
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.07,
+    "confidence": 0.109,
+    "classification": "KING"
+  },
+  {
+    "match": "Real Madrid vs Real Betis",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 1.33,
+    "odds_draw": 5.25,
+    "odds_away": 8,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 1,
+      "inferred": true
+    },
+    "upset_probability": 1,
+    "volatility_score": 1,
+    "confidence": -0.3,
+    "classification": "KING"
+  },
+  {
+    "match": "Sevilla vs Barcelona",
+    "competition": "La Liga",
+    "date": "2026-05-25",
+    "odds_home": 3.6,
+    "odds_draw": 3.8,
+    "odds_away": 1.91,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.813,
+    "volatility_score": 0.853,
+    "confidence": 0.508,
+    "classification": "KING"
+  },
+  {
+    "match": "Real Sociedad vs Atletico Madrid",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 2.45,
+    "odds_draw": 3.4,
+    "odds_away": 2.8,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.367,
+    "volatility_score": 0.742,
+    "confidence": 1.323,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Almeria vs Cadiz",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 2.7,
+    "odds_draw": 3.25,
+    "odds_away": 2.63,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.273,
+    "volatility_score": 0.718,
+    "confidence": 1.494,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Celta Vigo vs Valencia",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 2.1,
+    "odds_draw": 3.3,
+    "odds_away": 3.6,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.5,
+    "volatility_score": 0.775,
+    "confidence": 0.893,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Getafe vs Mallorca",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 2.5,
+    "odds_draw": 2.9,
+    "odds_away": 3.3,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.517,
+    "volatility_score": 0.779,
+    "confidence": 1.05,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Girona vs Granada",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 1.25,
+    "odds_draw": 6.5,
+    "odds_away": 9.5,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.9,
+    "confidence": -0.27,
+    "classification": "KING"
+  },
+  {
+    "match": "Osasuna vs Villarreal",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 2.8,
+    "odds_draw": 3.6,
+    "odds_away": 2.38,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.39,
+    "volatility_score": 0.748,
+    "confidence": 1.281,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Rayo Vallecano vs Athletic Bilbao",
+    "competition": "La Liga",
+    "date": "2026-05-24",
+    "odds_home": 3.4,
+    "odds_draw": 3.3,
+    "odds_away": 2.15,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.667,
+    "volatility_score": 0.817,
+    "confidence": 0.776,
+    "classification": "SAFE"
+  },
+  {
+    "match": "AC Milan vs Salernitana",
+    "competition": "Serie A",
+    "date": "2026-05-25",
+    "odds_home": 1.18,
+    "odds_draw": 7.5,
+    "odds_away": 13,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 1,
+      "inferred": true
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.95,
+    "confidence": -0.285,
+    "classification": "KING"
+  },
+  {
+    "match": "Verona vs Inter Milan",
+    "competition": "Serie A",
+    "date": "2026-05-26",
+    "odds_home": 7,
+    "odds_draw": 4.5,
+    "odds_away": 1.45,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 1,
+      "inferred": true
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.95,
+    "confidence": -0.285,
+    "classification": "KING"
+  },
+  {
+    "match": "Atalanta vs Torino",
+    "competition": "Serie A",
+    "date": "2026-05-24",
+    "odds_home": 1.57,
+    "odds_draw": 4,
+    "odds_away": 5.75,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.85,
+    "confidence": -0.255,
+    "classification": "KING"
+  },
+  {
+    "match": "Bologna vs Juventus",
+    "competition": "Serie A",
+    "date": "2026-05-20",
+    "odds_home": 2.9,
+    "odds_draw": 3.1,
+    "odds_away": 2.6,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.35,
+    "volatility_score": 0.688,
+    "confidence": 1.369,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Cagliari vs Fiorentina",
+    "competition": "Serie A",
+    "date": "2026-05-23",
+    "odds_home": 3.3,
+    "odds_draw": 3.4,
+    "odds_away": 2.15,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.633,
+    "volatility_score": 0.758,
+    "confidence": 0.852,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Empoli vs AS Roma",
+    "competition": "Serie A",
+    "date": "2026-05-26",
+    "odds_home": 4.5,
+    "odds_draw": 3.75,
+    "odds_away": 1.75,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.917,
+    "volatility_score": 0.829,
+    "confidence": 0.147,
+    "classification": "KING"
+  },
+  {
+    "match": "Frosinone vs Udinese",
+    "competition": "Serie A",
+    "date": "2026-05-26",
+    "odds_home": 2.4,
+    "odds_draw": 3.3,
+    "odds_away": 2.9,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.417,
+    "volatility_score": 0.704,
+    "confidence": 1.247,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Genoa vs Bologna",
+    "competition": "Serie A",
+    "date": "2026-05-24",
+    "odds_home": 3.5,
+    "odds_draw": 3.25,
+    "odds_away": 2.15,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.45,
+    "volatility_score": 0.713,
+    "confidence": 0.999,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Juventus vs Monza",
+    "competition": "Serie A",
+    "date": "2026-05-25",
+    "odds_home": 1.36,
+    "odds_draw": 4.75,
+    "odds_away": 8.5,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.85,
+    "confidence": -0.255,
+    "classification": "KING"
+  },
+  {
+    "match": "Lazio vs Sassuolo",
+    "competition": "Serie A",
+    "date": "2026-05-26",
+    "odds_home": 1.4,
+    "odds_draw": 5,
+    "odds_away": 7,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 1,
+      "inferred": true
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.95,
+    "confidence": -0.285,
+    "classification": "KING"
+  },
+  {
+    "match": "Napoli vs Lecce",
+    "competition": "Serie A",
+    "date": "2026-05-25",
+    "odds_home": 1.44,
+    "odds_draw": 4.5,
+    "odds_away": 7,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 1,
+      "inferred": true
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.95,
+    "confidence": -0.285,
+    "classification": "KING"
+  },
+  {
+    "match": "Bayer Leverkusen vs FC Augsburg",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 1.28,
+    "odds_draw": 6,
+    "odds_away": 9,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.93,
+    "confidence": -0.279,
+    "classification": "KING"
+  },
+  {
+    "match": "Bayern Munich vs VfL Wolfsburg",
+    "competition": "Bundesliga",
+    "date": "2026-05-12",
+    "odds_home": 1.33,
+    "odds_draw": 5.75,
+    "odds_away": 7.5,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.93,
+    "confidence": -0.279,
+    "classification": "KING"
+  },
+  {
+    "match": "Borussia Dortmund vs SV Darmstadt 98",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 1.14,
+    "odds_draw": 8.5,
+    "odds_away": 15,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.93,
+    "confidence": -0.279,
+    "classification": "KING"
+  },
+  {
+    "match": "Eintracht Frankfurt vs RB Leipzig",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 3.1,
+    "odds_draw": 3.9,
+    "odds_away": 2.1,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.583,
+    "volatility_score": 0.826,
+    "confidence": 0.919,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Heidenheim vs FC Koln",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 2.2,
+    "odds_draw": 3.6,
+    "odds_away": 3,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.267,
+    "volatility_score": 0.747,
+    "confidence": 1.309,
+    "classification": "SAFE"
+  },
+  {
+    "match": "TSG Hoffenheim vs Bayern Munich",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 4.33,
+    "odds_draw": 4.5,
+    "odds_away": 1.62,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.903,
+    "volatility_score": 0.906,
+    "confidence": 0.147,
+    "classification": "KING"
+  },
+  {
+    "match": "VfB Stuttgart vs Borussia Monchengladbach",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 1.25,
+    "odds_draw": 6.5,
+    "odds_away": 9.5,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 0.93,
+    "confidence": -0.279,
+    "classification": "KING"
+  },
+  {
+    "match": "Union Berlin vs SC Freiburg",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 2.4,
+    "odds_draw": 3.4,
+    "odds_away": 2.9,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.167,
+    "volatility_score": 0.722,
+    "confidence": 1.492,
+    "classification": "SAFE"
+  },
+  {
+    "match": "VfL Wolfsburg vs Mainz 05",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 2.15,
+    "odds_draw": 3.6,
+    "odds_away": 3.1,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.567,
+    "volatility_score": 0.822,
+    "confidence": 0.949,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Werder Bremen vs VfL Bochum",
+    "competition": "Bundesliga",
+    "date": "2026-05-18",
+    "odds_home": 1.95,
+    "odds_draw": 3.9,
+    "odds_away": 3.5,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.517,
+    "volatility_score": 0.809,
+    "confidence": 0.853,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Le Havre vs Marseille",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 4,
+    "odds_draw": 3.75,
+    "odds_away": 1.85,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.967,
+    "volatility_score": 1.022,
+    "confidence": 0.189,
+    "classification": "KING"
+  },
+  {
+    "match": "Lens vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 1.57,
+    "odds_draw": 4.33,
+    "odds_away": 5.25,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 1,
+      "inferred": true
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.13,
+    "confidence": -0.259,
+    "classification": "KING"
+  },
+  {
+    "match": "Lille vs Nice",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 1.91,
+    "odds_draw": 3.6,
+    "odds_away": 3.9,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 1,
+      "inferred": true
+    },
+    "upset_probability": 0.913,
+    "volatility_score": 1.108,
+    "confidence": 0.257,
+    "classification": "KING"
+  },
+  {
+    "match": "Lorient vs Clermont",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 1.7,
+    "odds_draw": 4,
+    "odds_away": 4.5,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.933,
+    "volatility_score": 1.013,
+    "confidence": 0.063,
+    "classification": "KING"
+  },
+  {
+    "match": "Lyon vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 1.44,
+    "odds_draw": 4.75,
+    "odds_away": 6.5,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.309,
+    "classification": "KING"
+  },
+  {
+    "match": "Monaco vs Nantes",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 1.36,
+    "odds_draw": 5.25,
+    "odds_away": 7.5,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.309,
+    "classification": "KING"
+  },
+  {
+    "match": "Metz vs PSG",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 5.75,
+    "odds_draw": 4.75,
+    "odds_away": 1.45,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.309,
+    "classification": "KING"
+  },
+  {
+    "match": "Reims vs Rennes",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 2.7,
+    "odds_draw": 3.5,
+    "odds_away": 2.5,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.067,
+    "volatility_score": 0.797,
+    "confidence": 1.644,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Toulouse vs Brest",
+    "competition": "Ligue 1",
+    "date": "2026-05-19",
+    "odds_home": 3.1,
+    "odds_draw": 3.5,
+    "odds_away": 2.25,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.533,
+    "volatility_score": 0.913,
+    "confidence": 0.98,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Paris Saint-Germain vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 1.45,
+    "odds_draw": 4.75,
+    "odds_away": 6,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.309,
+    "classification": "KING"
+  },
+  {
+    "match": "Monaco vs Nantes",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 1.55,
+    "odds_draw": 4.2,
+    "odds_away": 5.5,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.297,
+    "classification": "KING"
+  },
+  {
+    "match": "Lille vs Nice",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 1.9,
+    "odds_draw": 3.5,
+    "odds_away": 4,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 1,
+      "inferred": true
+    },
+    "upset_probability": 0.95,
+    "volatility_score": 1.118,
+    "confidence": 0.19,
+    "classification": "KING"
+  },
+  {
+    "match": "Lens vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 1.65,
+    "odds_draw": 4,
+    "odds_away": 4.75,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 1,
+      "inferred": true
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.13,
+    "confidence": -0.114,
+    "classification": "KING"
+  },
+  {
+    "match": "Le Havre vs Marseille",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 3.8,
+    "odds_draw": 3.6,
+    "odds_away": 1.95,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.867,
+    "volatility_score": 0.997,
+    "confidence": 0.372,
+    "classification": "KING"
+  },
+  {
+    "match": "Reims vs Rennes",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 2.7,
+    "odds_draw": 3.4,
+    "odds_away": 2.5,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.317,
+    "volatility_score": 0.859,
+    "confidence": 1.376,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Toulouse vs Brest",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 3.1,
+    "odds_draw": 3.4,
+    "odds_away": 2.25,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.533,
+    "volatility_score": 0.913,
+    "confidence": 0.98,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Lorient vs Clermont",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 2,
+    "odds_draw": 3.5,
+    "odds_away": 3.6,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.533,
+    "volatility_score": 0.913,
+    "confidence": 0.793,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Metz vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-05-23",
+    "odds_home": 2.45,
+    "odds_draw": 3.3,
+    "odds_away": 2.9,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.4,
+    "volatility_score": 0.88,
+    "confidence": 1.224,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Nice vs Paris Saint-Germain",
+    "competition": "Ligue 1",
+    "date": "2026-05-17",
+    "odds_home": 3.4,
+    "odds_draw": 3.75,
+    "odds_away": 2,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.717,
+    "volatility_score": 0.959,
+    "confidence": 0.646,
+    "classification": "BOOST"
+  },
+  {
+    "match": "Reims vs Marseille",
+    "competition": "Ligue 1",
+    "date": "2026-05-17",
+    "odds_home": 2.85,
+    "odds_draw": 3.5,
+    "odds_away": 2.35,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.167,
+    "volatility_score": 0.822,
+    "confidence": 1.462,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Brest vs Reims",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 1.7,
+    "odds_draw": 3.8,
+    "odds_away": 4.75,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 1,
+      "inferred": true
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.13,
+    "confidence": -0.101,
+    "classification": "KING"
+  },
+  {
+    "match": "Clermont vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 4.5,
+    "odds_draw": 4.1,
+    "odds_away": 1.68,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.014,
+    "classification": "KING"
+  },
+  {
+    "match": "Montpellier vs Monaco",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 3.75,
+    "odds_draw": 3.9,
+    "odds_away": 1.85,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.883,
+    "volatility_score": 1.001,
+    "confidence": 0.341,
+    "classification": "KING"
+  },
+  {
+    "match": "Nantes vs Lille",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 4,
+    "odds_draw": 3.5,
+    "odds_away": 1.9,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.95,
+    "volatility_score": 1.018,
+    "confidence": 0.22,
+    "classification": "KING"
+  },
+  {
+    "match": "Paris Saint-Germain vs Toulouse",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 1.38,
+    "odds_draw": 5.25,
+    "odds_away": 7,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 1.5,
+      "inferred": true
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.18,
+    "confidence": -0.354,
+    "classification": "KING"
+  },
+  {
+    "match": "Marseille vs Lorient",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 1.42,
+    "odds_draw": 4.75,
+    "odds_away": 6.5,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.309,
+    "classification": "KING"
+  },
+  {
+    "match": "Strasbourg vs Metz",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 2.1,
+    "odds_draw": 3.4,
+    "odds_away": 3.45,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.45,
+    "volatility_score": 0.893,
+    "confidence": 0.945,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Rennes vs Lens",
+    "competition": "Ligue 1",
+    "date": "2026-05-12",
+    "odds_home": 2.55,
+    "odds_draw": 3.4,
+    "odds_away": 2.65,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.283,
+    "volatility_score": 0.851,
+    "confidence": 1.436,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Lille vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-05-06",
+    "odds_home": 1.88,
+    "odds_draw": 3.8,
+    "odds_away": 3.75,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.873,
+    "volatility_score": 0.998,
+    "confidence": 0.36,
+    "classification": "KING"
+  },
+  {
+    "match": "Brest vs Nantes",
+    "competition": "Ligue 1",
+    "date": "2026-05-04",
+    "odds_home": 1.72,
+    "odds_draw": 3.65,
+    "odds_away": 5,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 1,
+      "inferred": true
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.13,
+    "confidence": -0.159,
+    "classification": "KING"
+  },
+  {
+    "match": "Lens vs Lorient",
+    "competition": "Ligue 1",
+    "date": "2026-05-03",
+    "odds_home": 1.42,
+    "odds_draw": 4.6,
+    "odds_away": 7,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.309,
+    "classification": "KING"
+  },
+  {
+    "match": "Le Havre vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-05-04",
+    "odds_home": 2.4,
+    "odds_draw": 3.25,
+    "odds_away": 3,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.2,
+    "volatility_score": 0.83,
+    "confidence": 1.401,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Monaco vs Clermont",
+    "competition": "Ligue 1",
+    "date": "2026-05-04",
+    "odds_home": 1.33,
+    "odds_draw": 5.5,
+    "odds_away": 8,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.309,
+    "classification": "KING"
+  },
+  {
+    "match": "Metz vs Rennes",
+    "competition": "Ligue 1",
+    "date": "2026-05-04",
+    "odds_home": 3.2,
+    "odds_draw": 3.4,
+    "odds_away": 2.2,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.583,
+    "volatility_score": 0.926,
+    "confidence": 0.889,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Toulouse vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-05-03",
+    "odds_home": 2.15,
+    "odds_draw": 3.6,
+    "odds_away": 3.1,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.567,
+    "volatility_score": 0.922,
+    "confidence": 0.919,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Nice vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-04-28",
+    "odds_home": 1.75,
+    "odds_draw": 3.6,
+    "odds_away": 4.8,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.071,
+    "classification": "KING"
+  },
+  {
+    "match": "Lyon vs Monaco",
+    "competition": "Ligue 1",
+    "date": "2026-04-28",
+    "odds_home": 2.5,
+    "odds_draw": 3.75,
+    "odds_away": 2.55,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.017,
+    "volatility_score": 0.784,
+    "confidence": 1.736,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Marseille vs Lens",
+    "competition": "Ligue 1",
+    "date": "2026-04-28",
+    "odds_home": 2.1,
+    "odds_draw": 3.5,
+    "odds_away": 3.3,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.4,
+    "volatility_score": 0.88,
+    "confidence": 1.036,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Paris Saint-Germain vs Le Havre",
+    "competition": "Ligue 1",
+    "date": "2026-04-27",
+    "odds_home": 1.3,
+    "odds_draw": 5.75,
+    "odds_away": 9,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 1,
+      "inferred": true
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.13,
+    "confidence": -0.339,
+    "classification": "KING"
+  },
+  {
+    "match": "Metz vs Lille",
+    "competition": "Ligue 1",
+    "date": "2026-04-28",
+    "odds_home": 4.2,
+    "odds_draw": 3.6,
+    "odds_away": 1.85,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": 0.103,
+    "classification": "KING"
+  },
+  {
+    "match": "Lorient vs Paris Saint-Germain",
+    "competition": "Ligue 1",
+    "date": "2026-04-24",
+    "odds_home": 6.5,
+    "odds_draw": 4.75,
+    "odds_away": 1.44,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.309,
+    "classification": "KING"
+  },
+  {
+    "match": "Monaco vs Lille",
+    "competition": "Ligue 1",
+    "date": "2026-04-24",
+    "odds_home": 2.25,
+    "odds_draw": 3.5,
+    "odds_away": 3,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.25,
+    "volatility_score": 0.843,
+    "confidence": 1.31,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Marseille vs Nice",
+    "competition": "Ligue 1",
+    "date": "2026-04-24",
+    "odds_home": 2.15,
+    "odds_draw": 3.3,
+    "odds_away": 3.4,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.667,
+    "volatility_score": 0.947,
+    "confidence": 0.737,
+    "classification": "BOOST"
+  },
+  {
+    "match": "Brest vs Monaco",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "odds_home": 2.6,
+    "odds_draw": 3.4,
+    "odds_away": 2.6,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.25,
+    "volatility_score": 0.843,
+    "confidence": 1.497,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Toulouse vs Marseille",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "odds_home": 2.8,
+    "odds_draw": 3.4,
+    "odds_away": 2.45,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.367,
+    "volatility_score": 0.872,
+    "confidence": 1.284,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Paris Saint-Germain vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "odds_home": 1.48,
+    "odds_draw": 4.75,
+    "odds_away": 5.75,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.309,
+    "classification": "KING"
+  },
+  {
+    "match": "Lens vs Clermont",
+    "competition": "Ligue 1",
+    "date": "2026-04-20",
+    "odds_home": 1.4,
+    "odds_draw": 4.75,
+    "odds_away": 7.5,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.309,
+    "classification": "KING"
+  },
+  {
+    "match": "Lille vs Strasbourg",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "odds_home": 1.62,
+    "odds_draw": 3.9,
+    "odds_away": 5.5,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.279,
+    "classification": "KING"
+  },
+  {
+    "match": "Reims vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "odds_home": 1.95,
+    "odds_draw": 3.65,
+    "odds_away": 3.6,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.8,
+    "volatility_score": 0.98,
+    "confidence": 0.493,
+    "classification": "KING"
+  },
+  {
+    "match": "Le Havre vs Metz",
+    "competition": "Ligue 1",
+    "date": "2026-04-21",
+    "odds_home": 2.2,
+    "odds_draw": 3.25,
+    "odds_away": 3.4,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.65,
+    "volatility_score": 0.943,
+    "confidence": 0.767,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Nantes vs Rennes",
+    "competition": "Ligue 1",
+    "date": "2026-04-20",
+    "odds_home": 3.2,
+    "odds_draw": 3.3,
+    "odds_away": 2.25,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.567,
+    "volatility_score": 0.922,
+    "confidence": 0.919,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Nice vs Lorient",
+    "competition": "Ligue 1",
+    "date": "2026-04-19",
+    "odds_home": 1.55,
+    "odds_draw": 4,
+    "odds_away": 6,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": -0.309,
+    "classification": "KING"
+  },
+  {
+    "match": "Lyon vs Brest",
+    "competition": "Ligue 1",
+    "date": "2026-04-14",
+    "odds_home": 2.25,
+    "odds_draw": 3.4,
+    "odds_away": 3.1,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.283,
+    "volatility_score": 0.851,
+    "confidence": 1.249,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Clermont vs Montpellier",
+    "competition": "Ligue 1",
+    "date": "2026-04-14",
+    "odds_home": 2.9,
+    "odds_draw": 3.5,
+    "odds_away": 2.3,
+    "actual_result": "Draw",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.45,
+    "volatility_score": 0.893,
+    "confidence": 1.132,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Rennes vs Toulouse",
+    "competition": "Ligue 1",
+    "date": "2026-04-13",
+    "odds_home": 1.85,
+    "odds_draw": 3.6,
+    "odds_away": 4.2,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 1,
+    "volatility_score": 1.03,
+    "confidence": 0.103,
+    "classification": "KING"
+  },
+  {
+    "match": "Strasbourg vs Reims",
+    "competition": "Ligue 1",
+    "date": "2026-04-13",
+    "odds_home": 2.45,
+    "odds_draw": 3.3,
+    "odds_away": 2.9,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.15,
+    "volatility_score": 0.818,
+    "confidence": 1.492,
+    "classification": "SAFE"
+  },
+  {
+    "match": "Metz vs Lens",
+    "competition": "Ligue 1",
+    "date": "2026-04-12",
+    "odds_home": 4.5,
+    "odds_draw": 3.75,
+    "odds_away": 1.78,
+    "actual_result": "Home Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.907,
+    "volatility_score": 1.007,
+    "confidence": 0.111,
+    "classification": "KING"
+  },
+  {
+    "match": "Nantes vs Lyon",
+    "competition": "Ligue 1",
+    "date": "2026-04-07",
+    "odds_home": 3.25,
+    "odds_draw": 3.4,
+    "odds_away": 2.2,
+    "actual_result": "Away Win",
+    "injury_layer": {
+      "injuryImpact": 0,
+      "inferred": false
+    },
+    "upset_probability": 0.6,
+    "volatility_score": 0.93,
+    "confidence": 0.859,
+    "classification": "SAFE"
+  }
+]
