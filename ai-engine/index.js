@@ -3,29 +3,19 @@ const express = require("express");
 const app = express();
 app.use(express.json());
 
-// AI ENGINE ENDPOINT
-app.post("/predict", (req, res) => {
-  const { match } = req.body;
+app.get("/", (req, res) => {
+  res.send("AI ENGINE LIVE");
+});
 
-  if (!match) {
-    return res.json({ error: "No match provided" });
-  }
-
-  return res.json({
-    match,
-    prediction: "SAFE PICK 🔥",
-    confidence: 74,
-    risk: "MEDIUM",
-    factors: [
-      "Base AI engine active",
-      "Termux AI connected",
-      "Volatility model pending upgrade"
-    ]
+app.get("/predict", (req, res) => {
+  res.json({
+    pick: "Arsenal",
+    confidence: 74
   });
 });
 
-const PORT = 4000;
+const PORT = process.env.PORT || 4000;
 
-app.listen(PORT, "0.0.0.0", () => {
+app.listen(PORT, () => {
   console.log("🧠 AI ENGINE RUNNING ON PORT", PORT);
 });
