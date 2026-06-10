@@ -1,0 +1,6 @@
+nohup: ignoring input
+
+> ai-engine@1.0.0 start
+> node index.js
+
+🧠 AI ENGINE RUNNING ON PORT 4000

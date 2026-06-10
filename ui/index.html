@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BetBrain AI</title>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    body {
+      background: #0a0a0a;
+      color: white;
+      font-family: sans-serif;
+      overflow: hidden;
+    }
+
+    .card {
+      width: 90%;
+      max-width: 350px;
+      margin: auto;
+      margin-top: 80px;
+      padding: 20px;
+      border-radius: 20px;
+      background: #111;
+      box-shadow: 0 0 20px rgba(0,255,100,0.2);
+      text-align: center;
+    }
+
+    .pick {
+      font-size: 28px;
+      color: #00ff99;
+      font-weight: bold;
+    }
+
+    .conf {
+      font-size: 18px;
+      margin-top: 10px;
+    }
+
+    button {
+      margin-top: 15px;
+      padding: 10px 15px;
+      border-radius: 10px;
+      border: none;
+      background: #00ff99;
+      color: black;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="card">
+    <h2>🧠 BetBrain AI</h2>
+    <p>Live Prediction Feed</p>
+
+    <div id="match">Loading...</div>
+    <div class="pick" id="pick"></div>
+    <div class="conf" id="conf"></div>
+
+    <button onclick="loadPrediction()">Next Prediction</button>
+  </div>
+
+<script>
+async function loadPrediction() {
+  try {
+    const res = await fetch("http://localhost:4000/predict");
+    const data = await res.json();
+
+    document.getElementById("match").innerText = "Arsenal vs Random Team";
+    document.getElementById("pick").innerText = "Pick: " + data.pick;
+    document.getElementById("conf").innerText = "Confidence: " + data.confidence + "%";
+  } catch (e) {
+    document.getElementById("pick").innerText = "Engine Offline";
+  }
+}
+
+loadPrediction();
+</script>
+
+</body>
+</html>
