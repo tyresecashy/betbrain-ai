@@ -15,7 +15,7 @@ bot.command("status", (ctx) => {
 // PREDICT (calls AI engine)
 bot.command("predict", async (ctx) => {
   try {
-    const res = await fetch("PASTE_YOUR_CLOUDFLARE_URL/predict"); 
+    const res = await fetch("https://betbrain-ai-2.onrender.com/predict"); 
     const data = await res.json();
 
     ctx.reply(
