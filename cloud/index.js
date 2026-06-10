@@ -29,7 +29,7 @@ bot.command("predict", async (ctx) => {
 });
 
 // SAFE LAUNCH (IMPORTANT)
-bot.launch()
+bot.launch({ dropPendingUpdates: true, allowedUpdates: ["message"] })
   .then(() => console.log("🟢 BOT CONNECTED TO TELEGRAM"))
   .catch(err => console.log("❌ BOT FAILED:", err.message));
 
